@@ -9,5 +9,7 @@ function init() {
     writeFile();
 }
 
+
+
 // Function call to initialize app
 init();

@@ -1,2 +1,1 @@
-# readme_generator
-CLI ReadMe Generator
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
