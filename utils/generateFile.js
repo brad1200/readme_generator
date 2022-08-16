@@ -7,7 +7,7 @@ function writeFile(path, content) {
 
     const generateREADME = generateMarkdown(content);
 
-    fs.writeFile("README.md", `${}`, (err) =>
+    fs.writeFile("README.md", `utf8`, (err) =>
         err ? console.error(err) : console.log('I did something')
     );
 };
